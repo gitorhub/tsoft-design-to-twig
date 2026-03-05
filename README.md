@@ -10,10 +10,10 @@ Codex, Cursor, Windsurf, Antigravity ve GitHub Copilot ile çalışır.
 
 ```bash
 # 1. Repo'yu klonla
-git clone https://github.com/gitorhub/skills.git ~/skills
+git clone https://github.com/gitorhub/tsoft-design-to-twig.git ~/tsoft-design-to-twig
 
 # 2. Kurulum scriptini çalıştır
-bash ~/skills/tsoft-design-to-twig/agents/install.sh
+bash ~/tsoft-design-to-twig/agents/install.sh
 ```
 
 Hangi tool'ların kurulacağını script sorar, ENTER'a basınca hepsi kurulur.
@@ -21,7 +21,7 @@ Hangi tool'ların kurulacağını script sorar, ENTER'a basınca hepsi kurulur.
 ### 1 Dakikada Kurulum (Tek Satir)
 
 ```bash
-REPO="$HOME/skills"; git clone https://github.com/gitorhub/skills.git "$REPO" && bash "$REPO/tsoft-design-to-twig/agents/install.sh"
+REPO="$HOME/tsoft-design-to-twig"; git clone https://github.com/gitorhub/tsoft-design-to-twig.git "$REPO" && bash "$REPO/agents/install.sh"
 ```
 
 Not: Repo zaten varsa `git clone` yerine ilgili klasorde `git pull` yapip scripti yeniden calistirabilirsin.
@@ -31,7 +31,7 @@ Not: Repo zaten varsa `git clone` yerine ilgili klasorde `git pull` yapip script
 ## Güncelleme
 
 ```bash
-cd ~/skills && git pull
+cd ~/tsoft-design-to-twig && git pull
 ```
 
 Pull sonrası tüm tool'lar otomatik güncellenir, ekstra bir şey yapmana gerek yok.
@@ -53,9 +53,8 @@ Pull sonrası tüm tool'lar otomatik güncellenir, ekstra bir şey yapmana gerek
 ## Klasör Yapısı
 
 ```
-skills/
-└── tsoft-design-to-twig/
-    ├── SKILL.md          ← tek kaynak
-    ├── agents/           ← tool konfigürasyonları + install.sh
-    └── references/       ← section/snippet referansları
+tsoft-design-to-twig/
+├── SKILL.md          ← tek kaynak
+├── agents/           ← tool konfigürasyonları + install.sh
+└── references/       ← section/snippet referansları
 ```
