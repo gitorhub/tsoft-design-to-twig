@@ -58,3 +58,12 @@ tsoft-design-to-twig/
 ├── agents/           ← tool konfigürasyonları + install.sh
 └── references/       ← section/snippet referansları
 ```
+
+---
+
+## Katki Saglama
+
+Katki modeli basit: Fork et, duzenle, PR gonder; maintainer uygun gorurse birlestirir.
+
+Detayli adimlar ve PR kurallari icin:
+- `CONTRIBUTING.md`
