@@ -1,54 +1,77 @@
-# Contributing
+# Katkı Rehberi
 
-Bu repo herkese aciktir. Katki modeli:
-- Fork et
-- Duzenleme yap
-- PR (Pull Request) gonder
-- Maintainer uygun gorurse merge eder
+Bu repo herkese açıktır. **Fork et → düzenle → PR gönder**, maintainer uygun görürse birleştirir.
 
-## Hızlı Akis
+---
+
+## Adım Adım Katkı
+
+### 1. Fork et
+
+GitHub'da sağ üst köşedeki **Fork** butonuna tıkla.  
+Repo kendi hesabına kopyalanır: `github.com/<senin-kullanici-adin>/tsoft-design-to-twig`
+
+### 2. Fork'u bilgisayarına al
+
+> Skill'i kullanmak için orijinal repoyu `~/tsoft-design-to-twig`'e kurmuş olabilirsin.
+> Geliştirme için **fork'u farklı bir konuma al**, karışmasın.
 
 ```bash
-git clone https://github.com/<your-username>/tsoft-design-to-twig.git
+git clone https://github.com/<senin-kullanici-adin>/tsoft-design-to-twig.git
 cd tsoft-design-to-twig
-git checkout -b feat/short-description
-# degisiklikler...
-git add .
-git commit -m "feat: short description"
-git push origin feat/short-description
 ```
 
-Sonra GitHub uzerinden bu repoya PR ac.
+### 3. Yeni bir branch aç
+
+```bash
+git checkout -b feat/kisa-aciklama
+```
+
+### 4. Değişikliklerini yap, kaydet
+
+```bash
+git add .
+git commit -m "feat: kisa aciklama"
+git push origin feat/kisa-aciklama
+```
+
+### 5. PR (Pull Request) gönder
+
+GitHub'da fork sayfana git → **Compare & pull request** butonuna tıkla → açıklamayı doldur → gönder.
+
+---
 
 ## Basit Kurallar
 
-- Mumkun oldugunca kucuk ve odakli PR gonder.
-- Mevcut davranisi bozma; geriye donuk uyumlulugu koru.
-- Tool path'leri kullaniciya ozel (statik) olmasin.
-- `SKILL.md` degisiyorsa gerekli `references/*` guncellemelerini de ekle.
-- Installer degisikliginde `README.md` de ilgili komutlari guncelle.
+- Mümkün olduğunca küçük ve odaklı PR gönder.
+- Mevcut davranışı bozma; geriye dönük uyumluluğu koru.
+- Tool path'leri kullanıcıya özel (statik) olmasın.
+- `SKILL.md` değişiyorsa ilgili `references/*` güncellemelerini de ekle.
+- Installer değişikliğinde `README.md` komutlarını da güncelle.
 
-## Branch ve Commit Onerisi
+---
 
-- Branch:
-  - `feat/<konu>`
-  - `fix/<konu>`
-  - `docs/<konu>`
-- Commit:
-  - `feat: ...`
-  - `fix: ...`
-  - `docs: ...`
-  - `chore: ...`
+## Branch ve Commit Önerisi
 
-## PR Acarken
+| Tür | Branch | Commit |
+|-----|--------|--------|
+| Yeni özellik | `feat/<konu>` | `feat: ...` |
+| Hata düzeltme | `fix/<konu>` | `fix: ...` |
+| Dokümantasyon | `docs/<konu>` | `docs: ...` |
+| Temizlik/araç | `chore/<konu>` | `chore: ...` |
 
-PR aciklamasinda su 4 soruyu cevapla:
-1. Ne degisti?
+---
+
+## PR Açarken Şu 4 Soruyu Cevapla
+
+1. Ne değişti?
 2. Neden gerekli?
-3. Nasil test edildi?
-4. Kapsam disi bir sey var mi?
+3. Nasıl test edildi?
+4. Kapsam dışı bir şey var mı?
+
+---
 
 ## Review ve Merge
 
-- Maintainer gerekli gorurse degisiklik ister.
-- Uygun PR'ler squash merge ile birlestirilebilir.
+- Maintainer gerekli görürse değişiklik ister.
+- Uygun PR'ler squash merge ile birleştirilir.

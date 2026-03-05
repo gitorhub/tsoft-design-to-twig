@@ -6,6 +6,15 @@ Codex, Cursor, Windsurf, Antigravity ve GitHub Copilot ile çalışır.
 
 ---
 
+## Gereksinimler
+
+- macOS / Linux: doğrudan çalışır.
+- **Windows**: Git Bash ile çalışır, ancak symlink için **Developer Mode** açık olmalı.  
+  `Ayarlar → Gizlilik ve Güvenlik → Geliştiriciler → Geliştirici Modu: Açık`  
+  Alternatif olarak Git Bash'i **yönetici olarak** çalıştır.  
+
+---
+
 ## Kurulum
 
 ```bash
@@ -29,6 +38,8 @@ Not: Repo zaten varsa `git clone` yerine ilgili klasorde `git pull` yapip script
 ---
 
 ## Güncelleme
+
+> Skill'i **kullananlar** için. Katkı yapıyorsan `CONTRIBUTING.md`'yi takip et.
 
 ```bash
 cd ~/tsoft-design-to-twig && git pull
