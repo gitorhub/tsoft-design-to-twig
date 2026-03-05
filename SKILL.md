@@ -1,6 +1,7 @@
 ---
 name: tsoft-desing-to-twig
-description: TSOFT OS2 projelerinde Figma kaynakli, veya dış kaynaktan iletilen html css örnekli  Twig gelistirmelerini tema mantigini bozmadan yap. `section/*`, `snippets/*` ve gerekli oldugunda  `assets/css/theme.css` içindeki classları düzenle ama theme.css e yeni classlar ekleme. Mevcutları düzenleyebilirsin. Dosya yoluna gore referans kullan. Ozellikle `slider`, `banner`, `showcase`, `product-list`, `product-detail` ve urun karti snippet yapilarinda data-* attributelerini koru ve Tailwind tabanli responsive uyarlama icin kullan.
+description: >
+  TSOFT OS2 projelerinde Figma veya HTML/CSS tasarımlarını Twig şablonlarına dönüştürürken tema bütünlüğünü (theme.css değişkenleri, hazır global componentler) koruyarak Tailwind tabanlı ve responsive temiz kodlama yap. Keyfi özel değerler yerine en yakın Tailwind sınıflarını (text-[13px] -> text-xs), arbitrary renkler yerine semantik classları (bg-primary, text-body vb.) kullan. Üzerinde çalıştığın dosya yoluna uygun reference (references/*) dokümanını baz al. HTML içindeki 'data-*' attributelerini, macro/snippet yapılarını, sr-only gibi erişilebilirlik etiketlerini koru. Varsayılan UI kırılımı olarak sadece 'lg' breakpoint'ini esas al. Kod kalabalığından kaçın ve yorum satırı ekleme.
 ---
 
 # TSOFT Tailwind Twig Section
@@ -44,6 +45,7 @@ description: TSOFT OS2 projelerinde Figma kaynakli, veya dış kaynaktan iletile
 - Header, Footer inline SVG'lerde `fill="currentColor"` / `stroke="currentColor"` kullanarak rengi kapsayıcıdan miras al.
 - Figmadan ikonu bulamazsan, lucide.com'dan uygun bir ikon seçebilirsin. Ancak, tüm kullanımlarında ikonların birbiriyle tutarlı olmasına dikkat et. Örneğin, aynı türde (cart gibi) ikonların farklı versiyonlarını kullanma; tüm projede tek bir tip ikon kullan.
 - `alt="..." title="..."> ` gibi alanlarda `|raw` kullanma `|striptags` kullan. Çünkü panelden bazen html olarak gelebilri tırnak işaretinden dolayı vb kod patlar.
+- Kodlama veya düzenleme yaparken aralarda yorum yazma.
 
 ## Dosya Yolu -> Reference Eşleme
 
@@ -64,5 +66,3 @@ Sadece kodlama yapacağın references dosyasını oku. İhtiyacın olmayanları 
 Figma uygulama politikasi icin `references/figma.md` dosyasini uygula.
 Chat ekranına yapıştırılan Html + css to tailwind uygulama politikasi icin `references/css-to-tailwind.md` dosyasini uygula.
 Ortak davranis icin sadece ihtiyaç halinde  `references/global.md` dosyasini uygula.
-
-Kodlama veya düzenleme yaparken aralarda yorum yazma. Sonradan yorumları silmek zorunda kalıyorum.
