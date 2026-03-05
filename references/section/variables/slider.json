@@ -1,0 +1,72 @@
+{
+    "SETTING": {
+      "TITLE": "",
+      "SUBTITLE": "",
+      "DISPLAY_NAVIGATION": true,
+      "DISPLAY_THUMBNAIL": false,
+      "PAGINATION_TYPE": "false",
+      "LOOP": false,
+      "AUTOPLAY": "10",
+      "EFFECT": "slide",
+      "PERVIEW": {
+        "XXL": "",
+        "XL": "",
+        "LG": "",
+        "MD": "",
+        "SM": "",
+        "XS": ""
+      },
+      "MARGIN": {
+        "XXL": 0,
+        "XL": 0,
+        "LG": 0,
+        "MD": 0,
+        "SM": 0,
+        "XS": 0
+      },
+      "IMAGES": [
+        {
+          "INDEX": "1",
+          "TITLE": "Sonbahar Esintisi",
+          "SUBTITLE": "Modanın en şık hali burada",
+          "URL": {
+            "URL": "https://codex.tsoft.biz/ornek-kategori-1",
+            "URL_TARGET": "",
+            "URL_REL": ""
+          },
+          "IMG1": {
+            "PATH": "https://codex.tsoft.biz/Data/meta-uploads/slider1-1-1-1771999171.webp?v=1771999472",
+            "WIDTH": 1920,
+            "HEIGHT": 807,
+            "SIZE": 42488,
+            "UPDATED_AT": 1771999172
+          },
+          "IMG2": {
+            "PATH": "https://codex.tsoft.biz/Data/meta-uploads/slider1-1-1-1771999172.webp?v=1771999472",
+            "WIDTH": 1920,
+            "HEIGHT": 807,
+            "SIZE": 42488,
+            "UPDATED_AT": 1771999172
+          },
+          "IMG3": {
+            "PATH": "https://codex.tsoft.biz/Data/meta-uploads/group-34.svg?v=1771999472",
+            "WIDTH": 113,
+            "HEIGHT": 172,
+            "SIZE": 2384,
+            "UPDATED_AT": 1771999183
+          },
+          "BTNTEXT": "İNCELE",
+          "DATA1": "NEW",
+          "DATA2": null,
+          "DATA3": null,
+          "CONTENT": null
+        }
+      ]
+    },
+    "BLOCK": {
+      "ID": "577",
+      "RELATION_ID": "577",
+      "BLOCK_ID": "1036",
+      "TITLE": "section/slider"
+    }
+  }

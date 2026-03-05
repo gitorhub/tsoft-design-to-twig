@@ -1,0 +1,128 @@
+{
+    "FILTERS": [
+        {
+            "ID": "1",
+            "NAME": "Renk",
+            "TYPE": "0",
+            "VIEW": "color",
+            "LIST_NO": "999",
+            "VALUES": [
+                {
+                    "COUNT": 1,
+                    "ID": "1",
+                    "DATA": "#ff0000",
+                    "NAME": "Kırmızı",
+                    "SELECTED": 0
+                },
+                {
+                    "COUNT": 1,
+                    "ID": "3",
+                    "DATA": "#0000ff",
+                    "NAME": "Mavi",
+                    "SELECTED": 0
+                }
+            ]
+        }
+    ],
+    "CATEGORIES": [
+        {
+            "ID": 335,
+            "NAME": "Kadın",
+            "URL": "ornek-kategori-1",
+            "COUNT": 5,
+            "SELECTED": 1,
+            "ROW_NUMBER": 1,
+            "CHILDREN": [
+                {
+                    "ID": 340,
+                    "NAME": "Üst Giyim",
+                    "URL": "ornek-kategori-1-1",
+                    "COUNT": 5,
+                    "SELECTED": 0,
+                    "ROW_NUMBER": 1,
+                    "CHILDREN": [
+                        {
+                            "ID": 346,
+                            "NAME": "Gömlek",
+                            "URL": "ornek-kategori-1-1-2",
+                            "COUNT": 5,
+                            "SELECTED": 0,
+                            "ROW_NUMBER": 2,
+                            "CHILDREN": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "BRANDS": [
+        {
+            "COUNT": "5",
+            "ID": "80",
+            "img1_path": "Data/img/brand/0/tr_img_1_80.svg",
+            "NAME": "T-Soft",
+            "URL": "tsoft",
+            "LIST_NO": "0",
+            "SELECTED": 0
+        }
+    ],
+    "PRICE": {
+        "MIN": 90,
+        "MAX": 799,
+        "MIN_SELECTED": 90,
+        "MAX_SELECTED": 799
+    },
+    "MODELS": [],
+    "MODELS_TOTAL": "0",
+    "SUPPLIERS": [],
+    "VARIANTS": {
+        "TYPE1_LIST": [
+            {
+                "ID": "24",
+                "LIST_NO": "1",
+                "NAME": "Mavi",
+                "COLOR_CODE": "#91C9E8",
+                "IMAGE": "",
+                "COUNT": "2",
+                "SELECTED": 0
+            },
+            {
+                "ID": "25",
+                "LIST_NO": "2",
+                "NAME": "Sarı",
+                "COLOR_CODE": "#FFE99D",
+                "IMAGE": "",
+                "COUNT": "2",
+                "SELECTED": 0
+            }
+        ],
+        "TYPE2_LIST": [
+            {
+                "ID": "29",
+                "LIST_NO": "1",
+                "NAME": "XS",
+                "COLOR_CODE": "",
+                "IMAGE": "",
+                "COUNT": "5",
+                "SELECTED": 0
+            },
+            {
+                "ID": "30",
+                "LIST_NO": "2",
+                "NAME": "S",
+                "COLOR_CODE": "",
+                "IMAGE": "",
+                "COUNT": "5",
+                "SELECTED": 0
+            }
+        ],
+        "TYPE1_NAME": "Renk",
+        "TYPE2_NAME": "Beden"
+    },
+    "TARGET_CURRENCY": "TL",
+    "SELECTED": [],
+    "SETTINGS": {
+        "LANGUAGE": "tr",
+        "SHOW_COUNT": true
+    }
+}

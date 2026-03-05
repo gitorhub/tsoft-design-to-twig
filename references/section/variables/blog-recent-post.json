@@ -1,0 +1,66 @@
+{
+    "BLOG_POSTS": [
+      {
+        "ID": "3",
+        "TITLE": "Örnek Blog 3",
+        "SUMMARY": "<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>",
+        "TEXT": "<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\r\n<h2>Where does it come from?</h2>",
+        "YEAR": "2025",
+        "MONTH": "10",
+        "DAY": "21",
+        "DATE": "21.10.2025",
+        "PUBLISHED_AT": "21.10.2025",
+        "UPDATED_AT": "",
+        "DATE_TIME": 1761051327,
+        "IMAGE": "",
+        "URL": "/ornek-blog-3",
+        "IMAGE_URL": "",
+        "CATEGORY": "Blog Kategori",
+        "CATEGORY_ID": "1",
+        "CATEGORY_URL": "/blog-kategori",
+        "AUTHOR": null,
+        "IMG1": {
+          "PATH": "https://codex.tsoft.biz/Data/img/blog-post/3/tr_img_1_3.svg",
+          "SIZE": "2689",
+          "WIDTH": "300",
+          "HEIGHT": "200"
+        },
+        "IMG2": {
+          "PATH": "https://codex.tsoft.biz/Data/img/blog-post/3/tr_img_2_3.svg",
+          "SIZE": "2689",
+          "WIDTH": "300",
+          "HEIGHT": "200"
+        }
+      }
+    ],
+    "SETTING": {
+      "TITLE": "",
+      "SUBTITLE": "",
+      "DISPLAY_NAVIGATION": true,
+      "DISPLAY_PAGINATION": true,
+      "LOOP": false,
+      "AUTOPLAY": "10",
+      "PERVIEW": {
+        "XXL": "",
+        "XL": "",
+        "LG": "",
+        "MD": "",
+        "SM": "",
+        "XS": ""
+      },
+      "MARGIN": {
+        "XXL": 0,
+        "XL": 0,
+        "LG": 0,
+        "MD": 0,
+        "SM": 0,
+        "XS": 0
+      }
+    },
+    "BLOCK": {
+      "ID": "580",
+      "RELATION_ID": "580",
+      "BLOCK_ID": "1108",
+      "TITLE": "section/blog-recent-post"
+    }
+  }

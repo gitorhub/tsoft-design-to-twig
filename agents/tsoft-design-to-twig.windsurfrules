@@ -1,0 +1,18 @@
+---
+trigger: glob
+globs: ["**/*.twig", "**/templates/**", "**/sections/**", "**/snippets/**"]
+---
+
+# TSOFT Tailwind Twig Section
+
+TSOFT Figma to Twig section/snippet workflow.
+
+Use $tsoft-design-to-twig for Twig work in section, snippets, and related assets.
+Detect target path, read matching references, then apply figma/global rules while
+preserving theme hooks and responsive Tailwind structure.
+
+Core constraints:
+- Keep existing `data-*` attributes, macros, and snippet include flow.
+- Reuse semantic theme classes (`bg-primary`, `text-body`, `border-form`); avoid arbitrary values.
+- Use `container` and Tailwind defaults; avoid fixed max-width literals unless required.
+- Apply responsive layout primarily with `lg` breakpoint.

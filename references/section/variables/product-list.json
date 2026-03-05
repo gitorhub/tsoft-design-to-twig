@@ -1,0 +1,1491 @@
+{
+    "PRODUCTS": [
+      {
+        "ID": "773",
+        "VARIANT_FEATURE1_LIST": [
+          {
+            "ID": "804",
+            "LIST_NUMBER": "1",
+            "TYPE": "Mavi",
+            "TYPE_ID": "24",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA804",
+            "PRICE": 665.83333332,
+            "IN_STOCK": true,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": 0,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 665.83333332,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 665.83333332,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 798.9999999839999
+          }
+        ],
+        "VARIANT_FEATURE2_LIST": [
+          {
+            "ID": "804",
+            "LIST_NUMBER": "1",
+            "TYPE": "XS",
+            "TYPE_ID": "29",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA804",
+            "PRICE": 665.83333332,
+            "IN_STOCK": 1,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": 0,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 665.83333332,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 665.83333332,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 798.9999999839999
+          },
+          {
+            "ID": "805",
+            "LIST_NUMBER": "2",
+            "TYPE": "S",
+            "TYPE_ID": "30",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA805",
+            "PRICE": 665.83333332,
+            "IN_STOCK": 1,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": 0,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 665.83333332,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 665.83333332,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 798.9999999839999
+          },
+          {
+            "ID": "803",
+            "LIST_NUMBER": "3",
+            "TYPE": "M",
+            "TYPE_ID": "31",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA803",
+            "PRICE": 665.83333332,
+            "IN_STOCK": 1,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": 0,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 665.83333332,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 665.83333332,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 798.9999999839999
+          },
+          {
+            "ID": "807",
+            "LIST_NUMBER": "4",
+            "TYPE": "L",
+            "TYPE_ID": "32",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA807",
+            "PRICE": 665.83333332,
+            "IN_STOCK": 1,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": 0,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 665.83333332,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 665.83333332,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 798.9999999839999
+          },
+          {
+            "ID": "806",
+            "LIST_NUMBER": "5",
+            "TYPE": "XL",
+            "TYPE_ID": "33",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA806",
+            "PRICE": 665.83333332,
+            "IN_STOCK": 0,
+            "STOCK": 0,
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": 0,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 665.83333332,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 665.83333332,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 798.9999999839999
+          }
+        ],
+        "TITLE": "Örnek Ürün 3 - İlişkili Ürün (Mavi)",
+        "IS_NEW_PRODUCT": "1",
+        "IS_ACTIVE": "1",
+        "VARIANT_ID": "804",
+        "CATEGORY_ID": "346",
+        "NUMERIC1": 0,
+        "CATEGORY_ID_PATH": "335 > 340 > 346",
+        "CATEGORY_IDS": "346",
+        "PRICE_SELL": "665.83333333",
+        "PRICE_VISITOR": 0,
+        "PRICE_BUY": "0",
+        "PRICE_NOT_DISCOUNTED": 665.83333333,
+        "SUPPLIER_PRODUCT_CODE": "",
+        "CURRENCY_ID": "0",
+        "VAT": 20,
+        "HAS_IMAGE": "1",
+        "HAS_VARIANT": 1,
+        "DISPLAY_VAT": "1",
+        "BRAND": "T-Soft",
+        "BRAND_ID": "80",
+        "BRAND_URL": "/tsoft",
+        "BRAND_IMAGE": "/Data/img/brand/0/tr_img_1_80.svg",
+        "MODEL": "",
+        "MODEL_ID": "0",
+        "STOCK": "9999",
+        "STOCK_UNIT": "Adet",
+        "STOCK_UNIT_ID": "1",
+        "CBM": "1",
+        "STOCK_INCREMENT": 1,
+        "STOCK_UNIT_DECIMAL": 0,
+        "PRODUCT_CODE": "T773",
+        "SHORT_DESCRIPTION": "",
+        "ADDITIONAL_FIELD_1": "",
+        "ADDITIONAL_FIELD_2": "",
+        "ADDITIONAL_FIELD_3": "",
+        "BARCODE": "",
+        "STORE_ID": "0",
+        "IS_DISCOUNT_ACTIVE": 0,
+        "IS_DISPLAY_DISCOUNTED_ACTIVE": "0",
+        "DISCOUNT_PERCENT": 0,
+        "DISCOUNT_PERCENT_RAW": 0,
+        "CARGO_FREE": "0",
+        "CARGO_FREE_MEMBER": "0",
+        "CARGO_FREE_VENDOR": "0",
+        "CARGO_FREE_THIS": "0",
+        "DELIVERY_TIME": "",
+        "REGISTRATION_DATE": 1739360821,
+        "MIN_SALE_COUNT": "1",
+        "MAX_SALE_COUNT": "0",
+        "IS_CARGO_FREE": "0",
+        "MAX_ORDER_COUNT": 99999,
+        "CATEGORY_URL": "/ornek-kategori-1-1-2",
+        "CATEGORY_NAME": "Gömlek",
+        "CATEGORY_PATH": "Kadın > Üst Giyim >",
+        "FILTER_CATEGORY_ID": null,
+        "URL": "/ornek-urun-3-mavi",
+        "MODEL_URL": "/",
+        "IN_STOCK": true,
+        "IS_DISPLAY_PRODUCT": "0",
+        "VARIANT_NAME": "",
+        "VARIANT_FEATURE1_TITLE": "",
+        "VARIANT_FEATURE2_TITLE": "",
+        "SHOW_VENDOR": "0",
+        "SHOW_PROMOTION": "0",
+        "ACTIVE_ON_GROUPS": "",
+        "IS_MULTIPLE_DISCOUNT_ACTIVE": 0,
+        "COMMENT_RANK": "0",
+        "COMMENT_COUNT": "0",
+        "SUBSCRIBE": 0,
+        "SUBSCRIBE_FREQUENCY_LIST": [""],
+        "SUBSCRIBE_DISCOUNT_RATE": false,
+        "VARIANT_CODE": "",
+        "SUB_PRODUCT_CODE": "",
+        "DEAL": null,
+        "DEAL_START_DATE": "01.01.1970 02:00:00",
+        "DEAL_END_DATE": "01.01.1970 02:00:00",
+        "PRICE_GUEST": "665.83333333",
+        "IS_CATALOG": "0",
+        "ATTIBUTE_OPTIONS": "",
+        "IMAGE_LIST": [
+          {
+            "SMALL": "https://codex.tsoft.biz/ornek-urun-3-mavi-gomlek-t-soft-752-77-K.webp",
+            "MEDIUM": "https://codex.tsoft.biz/ornek-urun-3-mavi-gomlek-t-soft-752-77-O.webp",
+            "BIG": "https://codex.tsoft.biz/ornek-urun-3-mavi-gomlek-t-soft-752-77-B.webp",
+            "MEDIUM_WEBP_JPG": "https://codex.tsoft.biz/ornek-urun-3-mavi-gomlek-t-soft-752-77-O.jpg"
+          }
+        ],
+        "IMAGE": {
+          "SMALL": "https://codex.tsoft.biz/ornek-urun-3-mavi-gomlek-t-soft-752-77-K.webp",
+          "MEDIUM": "https://codex.tsoft.biz/ornek-urun-3-mavi-gomlek-t-soft-752-77-O.webp",
+          "BIG": "https://codex.tsoft.biz/ornek-urun-3-mavi-gomlek-t-soft-752-77-B.webp",
+          "MEDIUM_WEBP_JPG": "https://codex.tsoft.biz/ornek-urun-3-mavi-gomlek-t-soft-752-77-O.jpg"
+        },
+        "IMAGE_COUNT": 1,
+        "IMAGE_RATIO": 1,
+        "PRICE_CREDIT_CART": 665.83333333,
+        "PRICE_MONEY_ORDER": "665.83333333",
+        "MONEY_ORDER_PERCENT": 0,
+        "IS_MONEY_ORDER_ACTIVE": false,
+        "CURRENCY": "TL",
+        "TARGET_CURRENCY": "TL",
+        "PRICE_SELL_DEFAULT": 665.83333332,
+        "PRICE_RAW": 665.83333333,
+        "TARGET_CURRENCY_ORIGINAL": "TL",
+        "TARGET_CURRENCY_SYMBOL": " ",
+        "VARIANT_FEATURE1_SELECTED": "24",
+        "VARIANT_FEATURE2_SELECTED": "29",
+        "VARIANT_DATA": {
+          "VAT": 20,
+          "M_O_P": 0,
+          "VARIANT_IDS": {
+            "24_29": "804",
+            "24_30": "805",
+            "24_31": "803",
+            "24_32": "807",
+            "24_33": "806"
+          },
+          "VARIANT_PRICES": {
+            "24_29": "665.83333333",
+            "24_30": "665.83333333",
+            "24_31": "665.83333333",
+            "24_32": "665.83333333",
+            "24_33": "665.83333333"
+          },
+          "VARIANT_PRICE_RAWS": {
+            "24_29": 665.83333333,
+            "24_30": 665.83333333,
+            "24_31": 665.83333333,
+            "24_32": 665.83333333,
+            "24_33": 665.83333333
+          },
+          "BUYING_PRICES": {
+            "24_29": "0",
+            "24_30": "0",
+            "24_31": "0",
+            "24_32": "0",
+            "24_33": "0"
+          },
+          "NOT_DISCOUNTED_PRICES": {
+            "24_29": 665.83333333,
+            "24_30": 665.83333333,
+            "24_31": 665.83333333,
+            "24_32": 665.83333333,
+            "24_33": 665.83333333
+          },
+          "VARIANT_SUPPLIER_CODES": {
+            "24_29": null,
+            "24_30": null,
+            "24_31": null,
+            "24_32": null,
+            "24_33": null
+          },
+          "ACTIVE_IDS": {
+            "ONE_24": ["29", "30", "31", "32"],
+            "TWO_29": ["24"],
+            "TWO_30": ["24"],
+            "TWO_31": ["24"],
+            "TWO_32": ["24"],
+            "TWO_33": []
+          },
+          "VARIANT_INFORMATIONS": {
+            "24_29": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "24_30": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "24_31": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "24_32": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "24_33": {
+              "ADDITIONAL_INFORMATION": ""
+            }
+          },
+          "VARIANT_STOCKS": {
+            "24_29": "99999",
+            "24_30": "99999",
+            "24_31": "99999",
+            "24_32": "99999",
+            "24_33": "0"
+          }
+        },
+        "VARIANTS": [],
+        "MIN_ORDER_COUNT": "1",
+        "SYMBOLS": {
+          "S1": {
+            "TAG": "Hızlı Kargo",
+            "DATA": "<img src=\"https://codex.tsoft.biz/Data/EditorFiles/jettycart.svg\" alt=\"Hızlı Kargo\" />",
+            "FLAG": "0"
+          },
+          "S2": {
+            "TAG": "Kampanyalalı Ürün",
+            "DATA": "<img src=\"https://codex.tsoft.biz/Data/EditorFiles/tsoft-connect.svg\" alt=\"Kampanyalalı Ürün\" />",
+            "FLAG": "0"
+          },
+          "S3": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S4": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S5": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S6": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S7": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S8": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S9": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S10": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          }
+        }
+      },
+      {
+        "ID": "771",
+        "VARIANT_FEATURE1_LIST": [],
+        "VARIANT_FEATURE2_LIST": [],
+        "TITLE": "Örnek Ürün 1",
+        "IS_NEW_PRODUCT": "1",
+        "IS_ACTIVE": "1",
+        "VARIANT_ID": 0,
+        "CATEGORY_ID": "346",
+        "NUMERIC1": 0,
+        "CATEGORY_ID_PATH": "335 > 340 > 346",
+        "CATEGORY_IDS": "346",
+        "PRICE_SELL": "415.83333333",
+        "PRICE_VISITOR": 415.83333333,
+        "PRICE_BUY": "0",
+        "PRICE_NOT_DISCOUNTED": 582.5,
+        "SUPPLIER_PRODUCT_CODE": "",
+        "CURRENCY_ID": "0",
+        "VAT": 20,
+        "HAS_IMAGE": "1",
+        "HAS_VARIANT": 0,
+        "DISPLAY_VAT": "1",
+        "BRAND": "T-Soft",
+        "BRAND_ID": "80",
+        "BRAND_URL": "/tsoft",
+        "BRAND_IMAGE": "/Data/img/brand/0/tr_img_1_80.svg",
+        "MODEL": "",
+        "MODEL_ID": "0",
+        "STOCK": "999999",
+        "STOCK_UNIT": "Adet",
+        "STOCK_UNIT_ID": "1",
+        "CBM": "1",
+        "STOCK_INCREMENT": 1,
+        "STOCK_UNIT_DECIMAL": 0,
+        "PRODUCT_CODE": "T771",
+        "SHORT_DESCRIPTION": "",
+        "ADDITIONAL_FIELD_1": "",
+        "ADDITIONAL_FIELD_2": "",
+        "ADDITIONAL_FIELD_3": "",
+        "BARCODE": "",
+        "STORE_ID": "0",
+        "IS_DISCOUNT_ACTIVE": 1,
+        "IS_DISPLAY_DISCOUNTED_ACTIVE": "1",
+        "DISCOUNT_PERCENT": 29,
+        "DISCOUNT_PERCENT_RAW": 28.61,
+        "CARGO_FREE": "0",
+        "CARGO_FREE_MEMBER": "0",
+        "CARGO_FREE_VENDOR": "0",
+        "CARGO_FREE_THIS": "0",
+        "DELIVERY_TIME": "",
+        "REGISTRATION_DATE": 1739359728,
+        "MIN_SALE_COUNT": "1",
+        "MAX_SALE_COUNT": "0",
+        "IS_CARGO_FREE": "0",
+        "MAX_ORDER_COUNT": 99999,
+        "CATEGORY_URL": "/ornek-kategori-1-1-2",
+        "CATEGORY_NAME": "Gömlek",
+        "CATEGORY_PATH": "Kadın > Üst Giyim >",
+        "FILTER_CATEGORY_ID": null,
+        "URL": "/ornek-urun-1",
+        "MODEL_URL": "/",
+        "IN_STOCK": true,
+        "IS_DISPLAY_PRODUCT": "0",
+        "VARIANT_NAME": "",
+        "VARIANT_FEATURE1_TITLE": "",
+        "VARIANT_FEATURE2_TITLE": "",
+        "SHOW_VENDOR": "0",
+        "SHOW_PROMOTION": "0",
+        "ACTIVE_ON_GROUPS": "",
+        "IS_MULTIPLE_DISCOUNT_ACTIVE": 0,
+        "COMMENT_RANK": "0",
+        "COMMENT_COUNT": "0",
+        "SUBSCRIBE": 0,
+        "SUBSCRIBE_FREQUENCY_LIST": [""],
+        "SUBSCRIBE_DISCOUNT_RATE": false,
+        "VARIANT_CODE": "",
+        "SUB_PRODUCT_CODE": "",
+        "DEAL": null,
+        "DEAL_START_DATE": "01.01.1970 02:00:00",
+        "DEAL_END_DATE": "01.01.1970 02:00:00",
+        "PRICE_GUEST": "582.5",
+        "IS_CATALOG": "0",
+        "ATTIBUTE_OPTIONS": "",
+        "IMAGE_LIST": [
+          {
+            "SMALL": "https://codex.tsoft.biz/ornek-urun-1-gomlek-t-soft-743-77-K.jpg",
+            "MEDIUM": "https://codex.tsoft.biz/ornek-urun-1-gomlek-t-soft-743-77-O.jpg",
+            "BIG": "https://codex.tsoft.biz/ornek-urun-1-gomlek-t-soft-743-77-B.jpg",
+            "MEDIUM_WEBP_JPG": null
+          }
+        ],
+        "IMAGE": {
+          "SMALL": "https://codex.tsoft.biz/ornek-urun-1-gomlek-t-soft-743-77-K.jpg",
+          "MEDIUM": "https://codex.tsoft.biz/ornek-urun-1-gomlek-t-soft-743-77-O.jpg",
+          "BIG": "https://codex.tsoft.biz/ornek-urun-1-gomlek-t-soft-743-77-B.jpg",
+          "MEDIUM_WEBP_JPG": null
+        },
+        "IMAGE_COUNT": 1,
+        "IMAGE_RATIO": 1,
+        "PRICE_CREDIT_CART": 415.83333333,
+        "PRICE_MONEY_ORDER": "415.83333333",
+        "MONEY_ORDER_PERCENT": 0,
+        "IS_MONEY_ORDER_ACTIVE": false,
+        "CURRENCY": "TL",
+        "TARGET_CURRENCY": "TL",
+        "PRICE_SELL_DEFAULT": 415.83333333,
+        "PRICE_RAW": 415.83333333,
+        "TARGET_CURRENCY_ORIGINAL": "TL",
+        "TARGET_CURRENCY_SYMBOL": " ",
+        "MIN_ORDER_COUNT": "1",
+        "SYMBOLS": {
+          "S1": {
+            "TAG": "Hızlı Kargo",
+            "DATA": "<img src=\"https://codex.tsoft.biz/Data/EditorFiles/jettycart.svg\" alt=\"Hızlı Kargo\" />",
+            "FLAG": "0"
+          },
+          "S2": {
+            "TAG": "Kampanyalalı Ürün",
+            "DATA": "<img src=\"https://codex.tsoft.biz/Data/EditorFiles/tsoft-connect.svg\" alt=\"Kampanyalalı Ürün\" />",
+            "FLAG": "0"
+          },
+          "S3": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S4": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S5": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S6": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S7": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S8": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S9": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S10": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          }
+        }
+      },
+      {
+        "ID": "783",
+        "VARIANT_FEATURE1_LIST": [
+          {
+            "ID": "830",
+            "LIST_NUMBER": "1",
+            "TYPE": "Mavi",
+            "TYPE_ID": "24",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA830",
+            "PRICE": 83.33333333,
+            "IN_STOCK": true,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          },
+          {
+            "ID": "833",
+            "LIST_NUMBER": "2",
+            "TYPE": "Sarı",
+            "TYPE_ID": "25",
+            "TYPE_COLOR_CODE": "#FFE99D",
+            "CODE": null,
+            "WS_CODE": "TA833",
+            "PRICE": 83.33333333,
+            "IN_STOCK": true,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          },
+          {
+            "ID": "818",
+            "LIST_NUMBER": "3",
+            "TYPE": "Kırmızı",
+            "TYPE_ID": "26",
+            "TYPE_COLOR_CODE": "#FFBDBD",
+            "CODE": null,
+            "WS_CODE": "TA818",
+            "PRICE": 83.33333333,
+            "IN_STOCK": true,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          },
+          {
+            "ID": "832",
+            "LIST_NUMBER": "4",
+            "TYPE": "Beyaz",
+            "TYPE_ID": "27",
+            "TYPE_COLOR_CODE": "#ffffff",
+            "CODE": null,
+            "WS_CODE": "TA832",
+            "PRICE": 83.33333333,
+            "IN_STOCK": true,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          },
+          {
+            "ID": "814",
+            "LIST_NUMBER": "5",
+            "TYPE": "Siyah",
+            "TYPE_ID": "28",
+            "TYPE_COLOR_CODE": "#000000",
+            "CODE": null,
+            "WS_CODE": "TA814",
+            "PRICE": 83.33333333,
+            "IN_STOCK": true,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          }
+        ],
+        "VARIANT_FEATURE2_LIST": [
+          {
+            "ID": "830",
+            "LIST_NUMBER": "1",
+            "TYPE": "XS",
+            "TYPE_ID": "29",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA830",
+            "PRICE": 83.33333333,
+            "IN_STOCK": 1,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          },
+          {
+            "ID": "834",
+            "LIST_NUMBER": "2",
+            "TYPE": "S",
+            "TYPE_ID": "30",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA834",
+            "PRICE": 83.33333333,
+            "IN_STOCK": 1,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          },
+          {
+            "ID": "825",
+            "LIST_NUMBER": "3",
+            "TYPE": "M",
+            "TYPE_ID": "31",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA825",
+            "PRICE": 83.33333333,
+            "IN_STOCK": 1,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          },
+          {
+            "ID": "821",
+            "LIST_NUMBER": "4",
+            "TYPE": "L",
+            "TYPE_ID": "32",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA821",
+            "PRICE": 83.33333333,
+            "IN_STOCK": 1,
+            "STOCK": "99999",
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          },
+          {
+            "ID": "829",
+            "LIST_NUMBER": "5",
+            "TYPE": "XL",
+            "TYPE_ID": "33",
+            "TYPE_COLOR_CODE": "#91C9E8",
+            "CODE": null,
+            "WS_CODE": "TA829",
+            "PRICE": 83.33333333,
+            "IN_STOCK": 0,
+            "STOCK": 0,
+            "BARCODE": null,
+            "IMAGE": {
+              "SMALL": "",
+              "MEDIUM": "",
+              "BIG": ""
+            },
+            "MONEY_ORDER_PERCENT": -10,
+            "VAT": 20,
+            "PRICE_NOT_DISCOUNTED": 83.33333333,
+            "DISCOUNT_PERCENT": 0,
+            "PARENT_PRICE": 83.33333333,
+            "PARENT_PRICE_ACTIVE": true,
+            "ADDITIONAL_INFO": "",
+            "WEIGHT": 0,
+            "PRICE_WITH_VAT": 99.999999996
+          }
+        ],
+        "TITLE": "Örnek Ürün 11 - Karışık",
+        "IS_NEW_PRODUCT": "1",
+        "IS_ACTIVE": "1",
+        "VARIANT_ID": "830",
+        "CATEGORY_ID": "346",
+        "NUMERIC1": 10,
+        "CATEGORY_ID_PATH": "335 > 340 > 346",
+        "CATEGORY_IDS": "346",
+        "PRICE_SELL": "83.33333333",
+        "PRICE_VISITOR": 0,
+        "PRICE_BUY": "0",
+        "PRICE_NOT_DISCOUNTED": 83.33333333,
+        "SUPPLIER_PRODUCT_CODE": "",
+        "CURRENCY_ID": "0",
+        "VAT": 20,
+        "HAS_IMAGE": "1",
+        "HAS_VARIANT": 1,
+        "DISPLAY_VAT": "1",
+        "BRAND": "T-Soft",
+        "BRAND_ID": "80",
+        "BRAND_URL": "/tsoft",
+        "BRAND_IMAGE": "/Data/img/brand/0/tr_img_1_80.svg",
+        "MODEL": "",
+        "MODEL_ID": "0",
+        "STOCK": "100000",
+        "STOCK_UNIT": "Adet",
+        "STOCK_UNIT_ID": "1",
+        "CBM": "0",
+        "STOCK_INCREMENT": 1,
+        "STOCK_UNIT_DECIMAL": 0,
+        "PRODUCT_CODE": "T783",
+        "SHORT_DESCRIPTION": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>",
+        "ADDITIONAL_FIELD_1": "",
+        "ADDITIONAL_FIELD_2": "",
+        "ADDITIONAL_FIELD_3": "",
+        "BARCODE": "",
+        "STORE_ID": "0",
+        "IS_DISCOUNT_ACTIVE": 0,
+        "IS_DISPLAY_DISCOUNTED_ACTIVE": "0",
+        "DISCOUNT_PERCENT": 0,
+        "DISCOUNT_PERCENT_RAW": 0,
+        "CARGO_FREE": "0",
+        "CARGO_FREE_MEMBER": "0",
+        "CARGO_FREE_VENDOR": "0",
+        "CARGO_FREE_THIS": "0",
+        "DELIVERY_TIME": "",
+        "REGISTRATION_DATE": 1739367154,
+        "MIN_SALE_COUNT": "1",
+        "MAX_SALE_COUNT": "0",
+        "IS_CARGO_FREE": "0",
+        "MAX_ORDER_COUNT": 99999,
+        "CATEGORY_URL": "/ornek-kategori-1-1-2",
+        "CATEGORY_NAME": "Gömlek",
+        "CATEGORY_PATH": "Kadın > Üst Giyim >",
+        "FILTER_CATEGORY_ID": "0",
+        "URL": "/ornek-urun-11",
+        "MODEL_URL": "/",
+        "IN_STOCK": true,
+        "IS_DISPLAY_PRODUCT": "0",
+        "VARIANT_NAME": "",
+        "VARIANT_FEATURE1_TITLE": "",
+        "VARIANT_FEATURE2_TITLE": "",
+        "SHOW_VENDOR": "0",
+        "SHOW_PROMOTION": "0",
+        "ACTIVE_ON_GROUPS": "",
+        "IS_MULTIPLE_DISCOUNT_ACTIVE": 0,
+        "COMMENT_RANK": "0",
+        "COMMENT_COUNT": "0",
+        "SUBSCRIBE": 0,
+        "SUBSCRIBE_FREQUENCY_LIST": [""],
+        "SUBSCRIBE_DISCOUNT_RATE": false,
+        "VARIANT_CODE": "",
+        "SUB_PRODUCT_CODE": "",
+        "DEAL": "1",
+        "DEAL_START_DATE": "13.02.2025 00:00:00",
+        "DEAL_END_DATE": "01.01.2028 00:00:00",
+        "PRICE_GUEST": "83.33333333",
+        "IS_CATALOG": "0",
+        "ATTIBUTE_OPTIONS": "",
+        "IMAGE_LIST": [
+          {
+            "SMALL": "https://codex.tsoft.biz/ornek-urun-11-gomlek-t-soft-814-78-K.jpg",
+            "MEDIUM": "https://codex.tsoft.biz/ornek-urun-11-gomlek-t-soft-814-78-O.jpg",
+            "BIG": "https://codex.tsoft.biz/ornek-urun-11-gomlek-t-soft-814-78-B.jpg",
+            "MEDIUM_WEBP_JPG": null
+          }
+        ],
+        "IMAGE": {
+          "SMALL": "https://codex.tsoft.biz/ornek-urun-11-gomlek-t-soft-814-78-K.jpg",
+          "MEDIUM": "https://codex.tsoft.biz/ornek-urun-11-gomlek-t-soft-814-78-O.jpg",
+          "BIG": "https://codex.tsoft.biz/ornek-urun-11-gomlek-t-soft-814-78-B.jpg",
+          "MEDIUM_WEBP_JPG": null
+        },
+        "IMAGE_COUNT": 1,
+        "IMAGE_RATIO": 1,
+        "PRICE_CREDIT_CART": 83.33333333,
+        "PRICE_MONEY_ORDER": 74.999999997,
+        "MONEY_ORDER_PERCENT": -10,
+        "IS_MONEY_ORDER_ACTIVE": true,
+        "CURRENCY": "TL",
+        "TARGET_CURRENCY": "TL",
+        "PRICE_SELL_DEFAULT": 83.33333333,
+        "PRICE_RAW": 83.33333333,
+        "TARGET_CURRENCY_ORIGINAL": "TL",
+        "TARGET_CURRENCY_SYMBOL": " ",
+        "VARIANT_FEATURE1_SELECTED": "24",
+        "VARIANT_FEATURE2_SELECTED": "29",
+        "VARIANT_DATA": {
+          "VAT": 20,
+          "M_O_P": -10,
+          "VARIANT_IDS": {
+            "24_29": "830",
+            "24_30": "834",
+            "24_31": "825",
+            "24_32": "821",
+            "24_33": "829",
+            "25_29": "833",
+            "25_30": "820",
+            "25_31": "815",
+            "25_32": "823",
+            "25_33": "836",
+            "26_29": "818",
+            "26_30": "816",
+            "26_31": "828",
+            "26_32": "827",
+            "26_33": "824",
+            "27_29": "832",
+            "27_30": "813",
+            "27_31": "831",
+            "27_32": "822",
+            "27_33": "835",
+            "28_29": "814",
+            "28_30": "837",
+            "28_31": "817",
+            "28_32": "826",
+            "28_33": "819"
+          },
+          "VARIANT_PRICES": {
+            "24_29": "83.33333333",
+            "24_30": "83.33333333",
+            "24_31": "83.33333333",
+            "24_32": "83.33333333",
+            "24_33": "83.33333333",
+            "25_29": "83.33333333",
+            "25_30": "83.33333333",
+            "25_31": "83.33333333",
+            "25_32": "83.33333333",
+            "25_33": "83.33333333",
+            "26_29": "83.33333333",
+            "26_30": "83.33333333",
+            "26_31": "83.33333333",
+            "26_32": "83.33333333",
+            "26_33": "83.33333333",
+            "27_29": "83.33333333",
+            "27_30": "83.33333333",
+            "27_31": "83.33333333",
+            "27_32": "83.33333333",
+            "27_33": "83.33333333",
+            "28_29": "83.33333333",
+            "28_30": "83.33333333",
+            "28_31": "83.33333333",
+            "28_32": "83.33333333",
+            "28_33": "83.33333333"
+          },
+          "VARIANT_PRICE_RAWS": {
+            "24_29": 83.33333333,
+            "24_30": 83.33333333,
+            "24_31": 83.33333333,
+            "24_32": 83.33333333,
+            "24_33": 83.33333333,
+            "25_29": 83.33333333,
+            "25_30": 83.33333333,
+            "25_31": 83.33333333,
+            "25_32": 83.33333333,
+            "25_33": 83.33333333,
+            "26_29": 83.33333333,
+            "26_30": 83.33333333,
+            "26_31": 83.33333333,
+            "26_32": 83.33333333,
+            "26_33": 83.33333333,
+            "27_29": 83.33333333,
+            "27_30": 83.33333333,
+            "27_31": 83.33333333,
+            "27_32": 83.33333333,
+            "27_33": 83.33333333,
+            "28_29": 83.33333333,
+            "28_30": 83.33333333,
+            "28_31": 83.33333333,
+            "28_32": 83.33333333,
+            "28_33": 83.33333333
+          },
+          "BUYING_PRICES": {
+            "24_29": "0",
+            "24_30": "0",
+            "24_31": "0",
+            "24_32": "0",
+            "24_33": "0",
+            "25_29": "0",
+            "25_30": "0",
+            "25_31": "0",
+            "25_32": "0",
+            "25_33": "0",
+            "26_29": "0",
+            "26_30": "0",
+            "26_31": "0",
+            "26_32": "0",
+            "26_33": "0",
+            "27_29": "0",
+            "27_30": "0",
+            "27_31": "0",
+            "27_32": "0",
+            "27_33": "0",
+            "28_29": "0",
+            "28_30": "0",
+            "28_31": "0",
+            "28_32": "0",
+            "28_33": "0"
+          },
+          "NOT_DISCOUNTED_PRICES": {
+            "24_29": 83.33333333,
+            "24_30": 83.33333333,
+            "24_31": 83.33333333,
+            "24_32": 83.33333333,
+            "24_33": 83.33333333,
+            "25_29": 83.33333333,
+            "25_30": 83.33333333,
+            "25_31": 83.33333333,
+            "25_32": 83.33333333,
+            "25_33": 83.33333333,
+            "26_29": 83.33333333,
+            "26_30": 83.33333333,
+            "26_31": 83.33333333,
+            "26_32": 83.33333333,
+            "26_33": 83.33333333,
+            "27_29": 83.33333333,
+            "27_30": 83.33333333,
+            "27_31": 83.33333333,
+            "27_32": 83.33333333,
+            "27_33": 83.33333333,
+            "28_29": 83.33333333,
+            "28_30": 83.33333333,
+            "28_31": 83.33333333,
+            "28_32": 83.33333333,
+            "28_33": 83.33333333
+          },
+          "VARIANT_SUPPLIER_CODES": {
+            "24_29": null,
+            "24_30": null,
+            "24_31": null,
+            "24_32": null,
+            "24_33": null,
+            "25_29": null,
+            "25_30": null,
+            "25_31": null,
+            "25_32": null,
+            "25_33": null,
+            "26_29": null,
+            "26_30": null,
+            "26_31": null,
+            "26_32": null,
+            "26_33": null,
+            "27_29": null,
+            "27_30": null,
+            "27_31": null,
+            "27_32": null,
+            "27_33": null,
+            "28_29": null,
+            "28_30": null,
+            "28_31": null,
+            "28_32": null,
+            "28_33": null
+          },
+          "ACTIVE_IDS": {
+            "ONE_24": ["29", "30", "31", "32"],
+            "TWO_29": ["24", "25", "26", "27", "28"],
+            "TWO_30": ["24", "26", "27", "28"],
+            "TWO_31": ["24", "25", "26", "28"],
+            "TWO_32": ["24", "25", "27", "28"],
+            "TWO_33": ["25", "26", "27"],
+            "ONE_25": ["29", "31", "32", "33"],
+            "ONE_26": ["29", "30", "31", "33"],
+            "ONE_27": ["29", "30", "32", "33"],
+            "ONE_28": ["29", "30", "31", "32"]
+          },
+          "VARIANT_INFORMATIONS": {
+            "24_29": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "24_30": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "24_31": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "24_32": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "24_33": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "25_29": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "25_30": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "25_31": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "25_32": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "25_33": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "26_29": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "26_30": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "26_31": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "26_32": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "26_33": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "27_29": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "27_30": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "27_31": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "27_32": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "27_33": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "28_29": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "28_30": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "28_31": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "28_32": {
+              "ADDITIONAL_INFORMATION": ""
+            },
+            "28_33": {
+              "ADDITIONAL_INFORMATION": ""
+            }
+          },
+          "VARIANT_STOCKS": {
+            "24_29": "99999",
+            "24_30": "99999",
+            "24_31": "99999",
+            "24_32": "99999",
+            "24_33": "0",
+            "25_29": "99999",
+            "25_30": "0",
+            "25_31": "99999",
+            "25_32": "99999",
+            "25_33": "99999",
+            "26_29": "99999",
+            "26_30": "99999",
+            "26_31": "99999",
+            "26_32": "0",
+            "26_33": "99999",
+            "27_29": "99999",
+            "27_30": "99999",
+            "27_31": "0",
+            "27_32": "99999",
+            "27_33": "99999",
+            "28_29": "99999",
+            "28_30": "99999",
+            "28_31": "99999",
+            "28_32": "99999",
+            "28_33": "0"
+          }
+        },
+        "VARIANTS": [],
+        "MIN_ORDER_COUNT": "1",
+        "SYMBOLS": {
+          "S1": {
+            "TAG": "Hızlı Kargo",
+            "DATA": "<img src=\"https://codex.tsoft.biz/Data/EditorFiles/jettycart.svg\" alt=\"Hızlı Kargo\" />",
+            "FLAG": "1"
+          },
+          "S2": {
+            "TAG": "Kampanyalalı Ürün",
+            "DATA": "<img src=\"https://codex.tsoft.biz/Data/EditorFiles/tsoft-connect.svg\" alt=\"Kampanyalalı Ürün\" />",
+            "FLAG": "1"
+          },
+          "S3": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "1"
+          },
+          "S4": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S5": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S6": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S7": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S8": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S9": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S10": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          }
+        }
+      },
+      {
+        "ID": "772",
+        "VARIANT_FEATURE1_LIST": [],
+        "VARIANT_FEATURE2_LIST": [],
+        "TITLE": "Örnek Ürün 12 - Stoksuz",
+        "IS_NEW_PRODUCT": "0",
+        "IS_ACTIVE": "1",
+        "VARIANT_ID": 0,
+        "CATEGORY_ID": "346",
+        "NUMERIC1": 0,
+        "CATEGORY_ID_PATH": "335 > 340 > 346",
+        "CATEGORY_IDS": "346",
+        "PRICE_SELL": "166.66666667",
+        "PRICE_VISITOR": 0,
+        "PRICE_BUY": "0",
+        "PRICE_NOT_DISCOUNTED": 166.66666667,
+        "SUPPLIER_PRODUCT_CODE": "",
+        "CURRENCY_ID": "0",
+        "VAT": 20,
+        "HAS_IMAGE": "1",
+        "HAS_VARIANT": 0,
+        "DISPLAY_VAT": "1",
+        "BRAND": "T-Soft",
+        "BRAND_ID": "80",
+        "BRAND_URL": "/tsoft",
+        "BRAND_IMAGE": "/Data/img/brand/0/tr_img_1_80.svg",
+        "MODEL": "",
+        "MODEL_ID": "0",
+        "STOCK": "0",
+        "STOCK_UNIT": "Adet",
+        "STOCK_UNIT_ID": "1",
+        "CBM": "1",
+        "STOCK_INCREMENT": 1,
+        "STOCK_UNIT_DECIMAL": 0,
+        "PRODUCT_CODE": "T772",
+        "SHORT_DESCRIPTION": "",
+        "ADDITIONAL_FIELD_1": "",
+        "ADDITIONAL_FIELD_2": "",
+        "ADDITIONAL_FIELD_3": "",
+        "BARCODE": "",
+        "STORE_ID": "0",
+        "IS_DISCOUNT_ACTIVE": 0,
+        "IS_DISPLAY_DISCOUNTED_ACTIVE": "0",
+        "DISCOUNT_PERCENT": 0,
+        "DISCOUNT_PERCENT_RAW": 0,
+        "CARGO_FREE": "0",
+        "CARGO_FREE_MEMBER": "0",
+        "CARGO_FREE_VENDOR": "0",
+        "CARGO_FREE_THIS": "0",
+        "DELIVERY_TIME": "",
+        "REGISTRATION_DATE": 1739360429,
+        "MIN_SALE_COUNT": "1",
+        "MAX_SALE_COUNT": "0",
+        "IS_CARGO_FREE": "0",
+        "MAX_ORDER_COUNT": 99999,
+        "CATEGORY_URL": "/ornek-kategori-1-1-2",
+        "CATEGORY_NAME": "Gömlek",
+        "CATEGORY_PATH": "Kadın > Üst Giyim >",
+        "FILTER_CATEGORY_ID": null,
+        "URL": "/ornek-urun-12",
+        "MODEL_URL": "/",
+        "IN_STOCK": false,
+        "IS_DISPLAY_PRODUCT": "0",
+        "VARIANT_NAME": "",
+        "VARIANT_FEATURE1_TITLE": "",
+        "VARIANT_FEATURE2_TITLE": "",
+        "SHOW_VENDOR": "0",
+        "SHOW_PROMOTION": "0",
+        "ACTIVE_ON_GROUPS": "",
+        "IS_MULTIPLE_DISCOUNT_ACTIVE": 0,
+        "COMMENT_RANK": "0",
+        "COMMENT_COUNT": "0",
+        "SUBSCRIBE": 0,
+        "SUBSCRIBE_FREQUENCY_LIST": [""],
+        "SUBSCRIBE_DISCOUNT_RATE": false,
+        "VARIANT_CODE": "",
+        "SUB_PRODUCT_CODE": "",
+        "DEAL": null,
+        "DEAL_START_DATE": "01.01.1970 02:00:00",
+        "DEAL_END_DATE": "01.01.1970 02:00:00",
+        "PRICE_GUEST": "166.66666667",
+        "IS_CATALOG": "0",
+        "ATTIBUTE_OPTIONS": "",
+        "IMAGE_LIST": [
+          {
+            "SMALL": "https://codex.tsoft.biz/ornek-urun-12-gomlek-t-soft-800-77-K.jpg",
+            "MEDIUM": "https://codex.tsoft.biz/ornek-urun-12-gomlek-t-soft-800-77-O.jpg",
+            "BIG": "https://codex.tsoft.biz/ornek-urun-12-gomlek-t-soft-800-77-B.jpg",
+            "MEDIUM_WEBP_JPG": null
+          }
+        ],
+        "IMAGE": {
+          "SMALL": "https://codex.tsoft.biz/ornek-urun-12-gomlek-t-soft-800-77-K.jpg",
+          "MEDIUM": "https://codex.tsoft.biz/ornek-urun-12-gomlek-t-soft-800-77-O.jpg",
+          "BIG": "https://codex.tsoft.biz/ornek-urun-12-gomlek-t-soft-800-77-B.jpg",
+          "MEDIUM_WEBP_JPG": null
+        },
+        "IMAGE_COUNT": 1,
+        "IMAGE_RATIO": 1,
+        "PRICE_CREDIT_CART": 166.66666667,
+        "PRICE_MONEY_ORDER": "166.66666667",
+        "MONEY_ORDER_PERCENT": 0,
+        "IS_MONEY_ORDER_ACTIVE": false,
+        "CURRENCY": "TL",
+        "TARGET_CURRENCY": "TL",
+        "PRICE_SELL_DEFAULT": 166.66666667,
+        "PRICE_RAW": 166.66666667,
+        "TARGET_CURRENCY_ORIGINAL": "TL",
+        "TARGET_CURRENCY_SYMBOL": " ",
+        "MIN_ORDER_COUNT": "1",
+        "SYMBOLS": {
+          "S1": {
+            "TAG": "Hızlı Kargo",
+            "DATA": "<img src=\"https://codex.tsoft.biz/Data/EditorFiles/jettycart.svg\" alt=\"Hızlı Kargo\" />",
+            "FLAG": "0"
+          },
+          "S2": {
+            "TAG": "Kampanyalalı Ürün",
+            "DATA": "<img src=\"https://codex.tsoft.biz/Data/EditorFiles/tsoft-connect.svg\" alt=\"Kampanyalalı Ürün\" />",
+            "FLAG": "0"
+          },
+          "S3": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S4": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S5": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S6": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S7": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S8": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S9": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          },
+          "S10": {
+            "TAG": "",
+            "DATA": "",
+            "FLAG": "0"
+          }
+        }
+      }
+    ],
+    "SETTING": {
+      "PERVIEW": {
+        "XXL": 4,
+        "XL": 4,
+        "LG": 4,
+        "MD": 2,
+        "SM": 2,
+        "XS": 2
+      },
+      "PRODUCT_COUNT_PER_PAGE": "32",
+      "SORT": ["1", "2", "3", "4", "5", "6", "7", "8", "0"]
+    },
+    "PAGINATOR": null,
+    "SEARCH_WORD": "",
+    "TOTAL": 4,
+    "IS_DEFAULT_VARIANT_ACTIVE": "1",
+    "IS_AUTO_LOAD_ACTIVE": true,
+    "IS_PAGINATION_ACTIVE": false,
+    "IS_LAZY_LOAD_ACTIVE": "1",
+    "LAZY_LOAD_LOADING_IMAGE": "https://public.tsoftstatic.com/Data/EditorFiles/lazy-load.svg",
+    "IS_COMMENT_RATING_ACTIVE": 0,
+    "PAGE_NO": 1,
+    "DISPLAY_CART_BUTTON": 1,
+    "DISPLAY_FAVOURITE_BUTTON": 1,
+    "DISPLAY_COMPARISON_BUTTON": 1,
+    "DISPLAY_RATING": 1,
+    "DISPLAY_BRAND": 1,
+    "BLOCK": {
+      "ID": "581",
+      "RELATION_ID": "581",
+      "BLOCK_ID": "1003",
+      "TITLE": "section/product-list"
+    }
+  }

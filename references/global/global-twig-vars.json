@@ -1,0 +1,82 @@
+{
+    "CART_INFO": {
+        "COUNT": 0,
+        "TOTAL": 0
+    },
+    "CDN_FALLBACK_TIME": null,
+    "COOKIE_LAW": "0",
+    "CURRENCY": "TL",
+    "DECIMAL_LENGTH": 0,
+    "DESIGN_MODE": true,
+    "DISPLAY_BRAND": 1,
+    "DISPLAY_CART_BUTTON": 1,
+    "DISPLAY_COMPARISON_BUTTON": 1,
+    "DISPLAY_DESKTOP_ON_TABLET": "",
+    "DISPLAY_FAVOURITE_BUTTON": 1,
+    "DISPLAY_RATING": 1,
+    "ENDPOINT_ALLOWED_KEYS": null,
+    "ENDPOINT_PREFIX": "",
+    "FAVICON": "",
+    "HAS_OTP_LOGIN": false,
+    "HOME_PAGE_LINK": "/anasayfa",
+    "IMAGE_HEIGHT_WIDTH_RATIO": "1.5",
+    "IS_ACTIVE_POPUP": 1,
+    "IS_ADMIN_LOGGED": true,
+    "IS_INTRO_ACTIVE": 0,
+    "IS_LAZY_LOAD_ACTIVE": 1,
+    "IS_MEMBER_LOGGED_IN": false,
+    "IS_MOBILE": false,
+    "IS_VENDOR": "",
+    "LANGUAGE": "tr",
+    "LANGUAGE_LIST": [
+        {
+            "TITLE": "Türkçe",
+            "CODE": "tr"
+        },
+        {
+            "TITLE": "English",
+            "CODE": "en"
+        }
+    ],
+    "LAZY_LOAD_LOADING_IMAGE": "https://public.tsoftstatic.com/Data/EditorFiles/lazy-load.svg",
+    "LICENCE_EEXPORT": 1,
+    "LICENSE_PRO_PACKAGE": "1",
+    "LINK_TABLE_ID": 1,
+    "LINK_TYPE": "page",
+    "MASKEDREVISION": "",
+    "MEMBER_GROUP_ID": "",
+    "MEMBER_INFO": {
+        "ID": 0,
+        "CODE": "",
+        "FIRST_NAME": "",
+        "BIRTH_DATE": "",
+        "GENDER": "",
+        "LAST_NAME": "",
+        "MAIL": "",
+        "MAIL_HASH": "",
+        "GROUP": 0,
+        "TRANSACTION_COUNT": 0,
+        "REPRESENTATIVE": "",
+        "KVKK": -1
+    },
+    "PAGE_ID": 1,
+    "PAGE_TYPE": "home",
+    "SEP_DEC": ",",
+    "SEP_THO": ".",
+    "SITE": "https://codex.tsoft.biz/",
+    "SITE_LOGO": "<p><img src=\"https://public.tsoftstatic.com/Data/EditorFiles/os2-logo.svg\" alt=\"\" width=\"232\" height=\"32\"></p>",
+    "UrunListeSayfalarindaGoster": "",
+    "VISITOR_LOCATION": {
+        "IS_ACTIVE": 0,
+        "LOCATIONS": []
+    },
+    "filtered": [],
+    "pageId": 1,
+    "request_path": {
+        "path": "",
+        "query": [],
+        "base": "https://codex.tsoft.biz"
+    },
+    "request_query": []
+
+}

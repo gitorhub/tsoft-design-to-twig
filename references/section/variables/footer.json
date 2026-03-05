@@ -1,0 +1,29 @@
+{
+    "CONTACT_TELEPHONE": "",
+    "CONTACT_FAX": "",
+    "CONTACT_EMAIL": "hasan.unal@tsoft.com.tr",
+    "CONTACT_ADDRESS": "",
+    "CONTACT_FIRM": "",
+    "CONTACT_FIRM_ADDRESS": "",
+    "CONTACT_CITY": "",
+    "CONTACT_TOWN": "",
+    "CONTACT_COUNTRY": "",
+    "TAX_OFFICE": "",
+    "TAX_NO": "",
+    "WHATSAPP_NO": "",
+    "WHATSAPP_NO_INTL": "",
+    "NEWSLETTER_CAPTCHA_ACTIVE": "0",
+    "KVKK_URL": "/srv/service/content/get-setting/KvkkMesaj",
+    "NEWSLETTER_KVKK_ACTIVE": "1",
+    "MOBILE_APP": {
+      "ANDROID": "",
+      "IOS": ""
+    },
+    "SETTING": [],
+    "BLOCK": {
+      "ID": "575",
+      "RELATION_ID": "575",
+      "BLOCK_ID": "1002",
+      "TITLE": "section/footer"
+    }
+  }

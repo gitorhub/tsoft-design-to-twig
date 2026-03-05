@@ -1,0 +1,52 @@
+{
+    "SETTING": {
+      "TITLE": "Blok Başlığımız",
+      "SUBTITLE": "Blok alt başlığımız buradadır",
+      "IMAGES": [
+        {
+          "INDEX": "1",
+          "TITLE": "Harika",
+          "SUBTITLE": "Zamanın harikalar",
+          "URL": {
+            "URL": "https://codex.tsoft.biz/paket-urunler",
+            "URL_TARGET": "_blank",
+            "URL_REL": "nofollow noreferrer noopener"
+          },
+          "COL": {
+            "XXL": 0,
+            "XL": 0,
+            "LG": 0,
+            "MD": 0,
+            "SM": 0,
+            "XS": 0
+          },
+          "IMG1": {
+            "PATH": "https://codex.tsoft.biz/Data/meta-uploads/alp1.jpg?v=1771999472",
+            "WIDTH": 570,
+            "HEIGHT": 570,
+            "SIZE": 109725,
+            "UPDATED_AT": 1771999314
+          },
+          "IMG2": {
+            "PATH": null,
+            "WIDTH": null,
+            "HEIGHT": null,
+            "SIZE": null,
+            "UPDATED_AT": null
+          },
+          "BTNTEXT": "İncele",
+          "DATA1": null,
+          "DATA2": null,
+          "DATA3": null,
+          "CONTENT": null,
+          "PUBLISHED_RANGE": null
+        }
+      ]
+    },
+    "BLOCK": {
+      "ID": "578",
+      "RELATION_ID": "578",
+      "BLOCK_ID": "1078",
+      "TITLE": "section/banner"
+    }
+  }

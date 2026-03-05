@@ -1,0 +1,35 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editor/IDE
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Runtime and caches
+.cache/
+.tmp/
+tmp/
+dist/
+build/
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example

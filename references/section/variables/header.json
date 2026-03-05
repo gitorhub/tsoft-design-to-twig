@@ -1,0 +1,50 @@
+{
+    "LICENCE_SEARCH_ALL": 1,
+    "LICENCE_PERSONALIZATION_ACTIVE": 1,
+    "LICENCE_REGISTRATION_WITH_PHONE": 1,
+    "IS_INLINE_SEARCH_ACTIVE": 1,
+    "MobileAppRedirect": "",
+    "CART_DROPDOWN_LIST": 1,
+    "CONTACT_INFO": "",
+    "CONTACT_INFO_MAIL": "hasan.unal@tsoft.com.tr",
+    "DISPLAY_FACEBOOK": false,
+    "DISPLAY_TWITTER": false,
+    "WHATSAPP_NO": "",
+    "WHATSAPP_NO_INTL": "",
+    "CURRENCY_LIST": [
+        {
+            "TITLE": "TL",
+            "SELECTED": 1,
+            "NAME": "TL"
+        },
+        {
+            "TITLE": "USD",
+            "SELECTED": 0,
+            "NAME": "USD"
+        },
+        {
+            "TITLE": "EUR",
+            "SELECTED": 0,
+            "NAME": "EUR"
+        }
+    ],
+    "LANGUAGE_LIST": [
+        {
+            "TITLE": "Türkçe",
+            "CODE": "tr"
+        },
+        {
+            "TITLE": "English",
+            "CODE": "en"
+        }
+    ],
+    "SETTING": {
+        "SUBFOLDER_HEADER_MOBILE_MENU": "header/mobile-menu/slider.twig"
+    },
+    "BLOCK": {
+        "ID": "574",
+        "RELATION_ID": "574",
+        "BLOCK_ID": "1001",
+        "TITLE": "section/header"
+    }
+}
