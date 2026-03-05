@@ -56,8 +56,9 @@ Pull sonrası tüm tool'lar otomatik güncellenir, ekstra bir şey yapmana gerek
 | Codex | `~/.codex/skills/tsoft-design-to-twig/` |
 | Cursor | `~/.cursor/skills/tsoft-design-to-twig/` (+ `~/.cursor/rules/tsoft-design-to-twig.mdc`) |
 | Windsurf | `~/.windsurf/skills/tsoft-design-to-twig/` (+ `~/.windsurf/rules/tsoft-design-to-twig.windsurfrules`) |
-| Antigravity | `~/.antigravity/skills/tsoft-design-to-twig/` |
+| Antigravity | `~/.gemini/antigravity/skills/tsoft-design-to-twig/` |
 | GitHub Copilot | `~/.config/github-copilot/tsoft-design-to-twig-instructions.md` |
+| Claude | `~/.claude/skills/tsoft-design-to-twig/` |
 
 ---
 

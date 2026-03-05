@@ -51,19 +51,21 @@ echo "  2) Cursor"
 echo "  3) Windsurf"
 echo "  4) Antigravity"
 echo "  5) GitHub Copilot"
-echo "  6) Hepsi"
+echo "  6) Claude"
+echo "  7) Hepsi"
 echo ""
-read -p "Seçim [6]: " SELECTION
-SELECTION="${SELECTION:-6}"
+read -p "Seçim [7]: " SELECTION
+SELECTION="${SELECTION:-7}"
 
 install_codex=false; install_cursor=false; install_windsurf=false
-install_antigravity=false; install_copilot=false
+install_antigravity=false; install_copilot=false; install_claude=false
 
-if [[ "$SELECTION" == "6" ]] || [[ "$SELECTION" == *"1"* ]]; then install_codex=true; fi
-if [[ "$SELECTION" == "6" ]] || [[ "$SELECTION" == *"2"* ]]; then install_cursor=true; fi
-if [[ "$SELECTION" == "6" ]] || [[ "$SELECTION" == *"3"* ]]; then install_windsurf=true; fi
-if [[ "$SELECTION" == "6" ]] || [[ "$SELECTION" == *"4"* ]]; then install_antigravity=true; fi
-if [[ "$SELECTION" == "6" ]] || [[ "$SELECTION" == *"5"* ]]; then install_copilot=true; fi
+if [[ "$SELECTION" == "7" ]] || [[ "$SELECTION" == *"1"* ]]; then install_codex=true; fi
+if [[ "$SELECTION" == "7" ]] || [[ "$SELECTION" == *"2"* ]]; then install_cursor=true; fi
+if [[ "$SELECTION" == "7" ]] || [[ "$SELECTION" == *"3"* ]]; then install_windsurf=true; fi
+if [[ "$SELECTION" == "7" ]] || [[ "$SELECTION" == *"4"* ]]; then install_antigravity=true; fi
+if [[ "$SELECTION" == "7" ]] || [[ "$SELECTION" == *"5"* ]]; then install_copilot=true; fi
+if [[ "$SELECTION" == "7" ]] || [[ "$SELECTION" == *"6"* ]]; then install_claude=true; fi
 
 echo ""
 echo "=================================================="
@@ -112,8 +114,8 @@ fi
 if $install_antigravity; then
   echo ""
   echo -e "${BOLD}📦 Antigravity${NC}"
-  safe_link "$SKILL_DIR"                         "$HOME/.antigravity/skills"              "$SKILL_SLUG"               "Skill folder"
-  safe_link "$AGENTS_DIR/antigravity-agent.yaml" "$HOME/.antigravity/agents"              "$SKILL_SLUG.yaml"          "antigravity-agent.yaml"
+  safe_link "$SKILL_DIR"                         "$HOME/.gemini/antigravity/skills"       "$SKILL_SLUG"               "Skill folder"
+  safe_link "$AGENTS_DIR/antigravity-agent.yaml" "$HOME/.gemini/antigravity/agents"       "$SKILL_SLUG.yaml"          "antigravity-agent.yaml"
 fi
 
 # ── COPILOT ─────────────────────────────────────────────────
@@ -122,6 +124,13 @@ if $install_copilot; then
   echo -e "${BOLD}📦 GitHub Copilot${NC}"
   safe_link "$AGENTS_DIR/copilot-instructions.md" "$HOME/.config/github-copilot" "$SKILL_SLUG-instructions.md" "copilot-instructions.md"
   info "Copilot genelde repo bazli calisir. Hedef repoda .github/copilot-instructions.md kullanin."
+fi
+
+# ── CLAUDE ──────────────────────────────────────────────────
+if $install_claude; then
+  echo ""
+  echo -e "${BOLD}📦 Claude${NC}"
+  safe_link "$SKILL_DIR" "$HOME/.claude/skills" "$SKILL_SLUG" "Skill folder"
 fi
 
 # ── Özet ────────────────────────────────────────────────────
